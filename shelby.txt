@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-=======
-
-
 bello
->>>>>>> eff9eba1d8c23cec53ec09060e7bd6767ff65fb2
 hello squad
